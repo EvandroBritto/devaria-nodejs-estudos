@@ -11,7 +11,7 @@ readLine.question('Qual o ano do seu nascimento?', ano => {
         console.log('Voce nao tem 18 anos');
     }else{
         readLine.question('Voce tem habilitacao? (Sim/Nao)', temHabilitacao => {
-            if(!(temHabilitacao.toUpperCase () === "SIM")){
+            if(!(temHabilitacao.toUpperCase() === "SIM")){
                 console.log("Voce nao tem habilitacao para entrar no Kart");
             }else{
                 readLine.question('Qual o seu nome?', nome =>{
