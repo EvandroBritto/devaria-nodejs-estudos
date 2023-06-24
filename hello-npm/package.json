@@ -7,13 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "teste",
+    "Teste",
     "npm",
     "node.js"
   ],
-  "author": "Evandro Britto",
-  "license": "ISC",
-  "dependencies": {
-    "moment": "^2.29.4"
-  }
+  "author": "Evandro Britto"
 }
